@@ -18,13 +18,19 @@
 }
 
 .containerA {
-    height: 300px;
+    height: 400px;
     width: 60%;
     margin: 15px auto;
 }
 
 .containerB {
     height: 500px;
+    width: 60%;
+    margin: 15px auto;
+}
+
+.containerfoot {
+    height: 50px;
     width: 60%;
     margin: 15px auto;
 }
@@ -62,6 +68,10 @@
 
 .colsec2 {
     background-color: #0983fc;
+}
+
+.colfoot {
+    background-color: #8801fe;
 }
 
 .insidecolsec2 {
