@@ -1,10 +1,14 @@
 
 	.debughead {
-        border: 0.5 solid red;
+        border: 1px solid red;
     }
 
 
     .debugcol {
-        border: 0.5 solid greenyellow;
+        border: 1px solid greenyellow;
+    }
+
+    .debugsec {
+        border: 1px solid rgb(60, 0, 255);
     }
     
