@@ -1,4 +1,6 @@
 
+/*GENERALI*/
+
 * {
 	box-sizing:border-box;
 	margin:0px;
@@ -10,6 +12,10 @@
     clear: both;
     display: table;
 }
+
+/* FINE GENERALI*/
+/* CONTAINER*/
+
 
 .containerhead {
     height: 100px;
@@ -24,7 +30,7 @@
 }
 
 .containerB {
-    height: 500px;
+    height: 600px;
     width: 60%;
     margin: 15px auto;
 }
@@ -41,22 +47,26 @@
 }
 
 .sec2as {
-    margin-top: 2%;
-    margin-bottom: 1%;
+    margin-top:2%;
+    margin-bottom: 2%;
     float: left;
     height: 84%;
-    width: 23%;
+    width: 20%;
 }
 
 .sec2main {
     margin-top: 2%;
-    margin-right: 2%;
-    margin-left: 2%;
-    margin-bottom: 1%;
+    margin-right: 22px;
+    margin-left: 22px;
+    margin-bottom: 2%;
     float: left;
     height: 84%;
-    width: 50%;
+    width: 56%;
 }
+
+/* FINE CONTAINER*/
+/* COLORI CONTAINER*/
+
 
 .colheader {
     background-color: #e579e6;
@@ -78,4 +88,5 @@
     background-color: #abcfe7;
 }
 
+/*FINE  COLORI CONTAINER*/
 
