@@ -9,5 +9,10 @@
     height: 100px;
     width: 60%;
     margin: 15px auto;
+}
+
+.colheader {
     background-color: pink;
 }
+
+
