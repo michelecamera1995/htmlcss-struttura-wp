@@ -5,6 +5,12 @@
 	padding:0px;
 }
 
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 .containerhead {
     height: 100px;
     width: 60%;
@@ -12,11 +18,39 @@
 }
 
 .containerA {
-    height: 400px;
+    height: 300px;
     width: 60%;
     margin: 15px auto;
 }
 
+.containerB {
+    height: 500px;
+    width: 60%;
+    margin: 15px auto;
+}
+
+.sec2head {
+    height: 10%;
+    width: 100%;
+}
+
+.sec2as {
+    margin-top: 2%;
+    margin-bottom: 1%;
+    float: left;
+    height: 84%;
+    width: 23%;
+}
+
+.sec2main {
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    float: left;
+    height: 84%;
+    width: 50%;
+}
 
 .colheader {
     background-color: #e579e6;
@@ -24,6 +58,14 @@
 
 .colsec1 {
     background-color: #e1d67a;
+}
+
+.colsec2 {
+    background-color: #0983fc;
+}
+
+.insidecolsec2 {
+    background-color: #abcfe7;
 }
 
 
