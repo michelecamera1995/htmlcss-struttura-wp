@@ -5,14 +5,25 @@
 	padding:0px;
 }
 
-.container {
+.containerhead {
     height: 100px;
     width: 60%;
     margin: 15px auto;
 }
 
+.containerA {
+    height: 400px;
+    width: 60%;
+    margin: 15px auto;
+}
+
+
 .colheader {
-    background-color: pink;
+    background-color: #e579e6;
+}
+
+.colsec1 {
+    background-color: #e1d67a;
 }
 
 
