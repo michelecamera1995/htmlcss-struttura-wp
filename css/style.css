@@ -19,74 +19,44 @@
 
 .containerhead {
     height: 100px;
-    width: 60%;
+    width: 70%;
     margin: 15px auto;
 }
 
 .containerA {
-    height: 400px;
-    width: 60%;
+    width: 70%;
     margin: 15px auto;
 }
 
 .containerB {
-    height: 600px;
-    width: 60%;
+    width: 70%;
     margin: 15px auto;
 }
 
 .containerfoot {
-    height: 50px;
-    width: 60%;
+    width: 70%;
     margin: 5px auto;
 }
 
 .sec2head {
-    height: 10%;
     width: 100%;
+    margin-bottom: 20px;
 }
 
-.sec2as {
-    margin-top:2%;
+.col {
+    width: 25%;
     margin-bottom: 2%;
     float: left;
-    height: 84%;
-    width: 20%;
 }
 
-.sec2main {
-    margin-top: 2%;
-    margin-right: 22px;
-    margin-left: 22px;
+.colmain {
+    width:46%;
+    margin-right: 2%;
+    margin-left: 2%;
     margin-bottom: 2%;
     float: left;
-    height: 84%;
-    width: 56%;
 }
 
 /* FINE CONTAINER*/
-/* COLORI CONTAINER*/
 
-
-.colheader {
-    background-color: #e579e6;
-}
-
-.colsec1 {
-    background-color: #e1d67a;
-}
-
-.colsec2 {
-    background-color: #0983fc;
-}
-
-.colfoot {
-    background-color: #8801fe;
-}
-
-.insidecolsec2 {
-    background-color: #abcfe7;
-}
-
-/*FINE  COLORI CONTAINER*/
 
